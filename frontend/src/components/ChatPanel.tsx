@@ -48,7 +48,7 @@ export const ChatPanel: React.FC<ChatPanelProps> = ({ wsClient, messages }) => {
             <div className="chat-messages">
                 {messages.length === 0 ? (
                     <div className="empty-chat">
-                        <p>No messages yet. Say hello! 👋</p>
+                        <p>No messages yet. Say hello! </p>
                     </div>
                 ) : (
                     messages.map((msg, index) => {

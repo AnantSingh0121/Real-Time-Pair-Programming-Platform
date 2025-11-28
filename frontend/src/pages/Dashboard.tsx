@@ -83,7 +83,7 @@ export const Dashboard: React.FC = () => {
 
             <div className="dashboard-content">
                 <div className="dashboard-header fade-in">
-                    <h1>Welcome, {user?.username}! 👋</h1>
+                    <h1>Welcome, {user?.username} ! </h1>
                     <p>Create a new room or join an existing one to start collaborating</p>
                 </div>
 
