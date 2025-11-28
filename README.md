@@ -1,6 +1,8 @@
 # Real-Time Pair Programming Platform
 A collaborative coding environment that allows multiple developers to edit code together, run code, chat and debug in real-time.
 
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/1f740278-710a-4ab0-ba85-de6ac6dcc94a" />
+
 ## Features
 
 - **Real-time Collaborative Editing** - Multiple users can edit code simultaneously with cursor synchronization
