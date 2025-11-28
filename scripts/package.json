@@ -1,0 +1,9 @@
+{
+  "name": "dynamodb-setup",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.478.0",
+    "dotenv": "^16.3.1"
+  }
+}
